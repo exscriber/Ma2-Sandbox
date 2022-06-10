@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.8.0/MA.xsd" major_vers="3" minor_vers="8" stream_vers="0">
+	<Info datetime="2020-04-29T18:08:19" showfile="lua" />
+	<Preset index="2" SpecialUse="Normal">
+		<Values>
+			<Channels>
+				<PresetValue Value="-10">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-7.7777777">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-5.5555553">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-3.3333333">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-1.1111112">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.1111112">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="3.3333333">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="5.5555553">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="7.7777777">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="10">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+			</Channels>
+		</Values>
+	</Preset>
+</MA>

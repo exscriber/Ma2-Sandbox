@@ -1,0 +1,16 @@
+{
+  "name": "ma2-sandbox",
+  "description": "GrandMA2 Lua sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Nick N. Zinovenko",
+  "scripts": {
+    "build": "tstl",
+    "dev": "tstl --watch"
+  },
+  "devDependencies": {
+    "lua-types": "^2.11.0",
+    "typescript": "^4.7.3",
+    "typescript-to-lua": "^1.6.0"
+  }
+}

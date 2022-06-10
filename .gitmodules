@@ -1,0 +1,3 @@
+[submodule "lib/gma_api"]
+	path = lib/gma_api
+	url = https://github.com/exscriber/Ma2-API

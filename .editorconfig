@@ -1,0 +1,3 @@
+[*.lua]
+if_condition_no_continuation_indent = true
+if_condition_align_with_each_other  = false

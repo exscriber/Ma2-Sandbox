@@ -1,0 +1,38 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build pos2offset",
+            "type": "shell",
+            "command": "lua53",
+            "args": [
+                "tools/luacc.lua",
+                "-p", "[[Bundle]]",
+                "-o", "build/pos2offset.lua",
+                "-i", "src", "-i", "lib",
+                "plugin-pos2offset.main",
+                "plugin-pos2offset.impl",
+                "utils.nnz",
+            ],
+            "problemMatcher": [],
+            "group": "build"
+        },
+        {
+            "label": "Build layout2csv",
+            "type": "shell",
+            "command": "lua53",
+            "args": [
+                "tools/luacc.lua",
+                "-p", "[[Bundle]]",
+                "-o", "build/layout2csv.lua",
+                "-i", "src", "-i", "lib",
+                "cmd-layout2csv.layout2csv",
+                "argparse", "pl.compat", "pl.utils", "pl.template"
+            ],
+            "problemMatcher": [],
+            "group": "build"
+        }
+    ]
+}

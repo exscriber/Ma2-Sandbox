@@ -1,0 +1,1508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="styles/fixture+layer+layers@html@default.xsl"?>
+<?xml-stylesheet type="text/xsl" href="styles/fixture+layer+layers@csv.xsl" alternate="yes"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2022-06-10T16:24:55" showfile="lua" />
+	<Layer index="3" name="sunstrip">
+		<Fixture index="0" name="SSLEDm6 1" fixture_id="201">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>1</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>4</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>7</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>10</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>525</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>528</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>531</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>534</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>537</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>540</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="1" name="SSLEDm6 2" fixture_id="202">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>543</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>546</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>549</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>552</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>555</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>558</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>561</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>564</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>567</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>570</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="2" name="SSLEDm6 3" fixture_id="203">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>573</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>576</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>579</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>582</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>585</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>588</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>591</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>594</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>597</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>600</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="3" name="SSLEDm6 4" fixture_id="204">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>603</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>606</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>609</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>612</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>615</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>618</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>621</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>624</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>627</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>630</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="4" name="SSLEDm6 5" fixture_id="205">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>633</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>636</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>639</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>642</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>645</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>648</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>651</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>654</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>657</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>660</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="5" name="SSLEDm6 6" fixture_id="206">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>663</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>666</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>669</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>672</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>675</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>678</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>681</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>684</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>687</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>690</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="6" name="SSLEDm6 7" fixture_id="207">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>693</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>696</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>699</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>702</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>705</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>708</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>711</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>714</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>717</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>720</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="7" name="SSLEDm6 8" fixture_id="208">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>723</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>726</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>729</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>732</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>735</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>738</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>741</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>744</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>747</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>750</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="8" name="SSLEDm6 9" fixture_id="209">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>753</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>756</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>759</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>762</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>765</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>768</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>771</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>774</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>777</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>780</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+		<Fixture index="9" name="SSLEDm6 10" fixture_id="210">
+			<FixtureType name="5 Sunstrip LED RGB Mode 6">
+				<No>5</No>
+			</FixtureType>
+			<AbsolutePosition>
+				<Location x="0" y="0" z="0" />
+				<Rotation x="0" y="-0" z="0" />
+				<Scaling x="1" y="1" z="1" />
+			</AbsolutePosition>
+			<SubFixture index="0" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>783</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="1" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>786</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="2" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>789</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="3" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>792</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="4" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>795</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="-0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="5" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>798</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.05" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="6" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>801</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.15" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="7" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>804</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.25" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="8" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>807</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.35" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+			<SubFixture index="9" react_to_grandmaster="true" color="ffffff">
+				<Patch>
+					<Address>810</Address>
+				</Patch>
+				<AbsolutePosition>
+					<Location x="0.45" y="0" z="0" />
+					<Rotation x="0" y="-0" z="0" />
+					<Scaling x="1" y="1" z="1" />
+				</AbsolutePosition>
+				<Channel index="0" />
+				<Channel index="1" />
+				<Channel index="2" />
+				<Channel index="3" />
+			</SubFixture>
+		</Fixture>
+	</Layer>
+</MA>

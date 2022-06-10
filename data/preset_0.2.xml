@@ -1,0 +1,4764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.8.0/MA.xsd" major_vers="3" minor_vers="8" stream_vers="0">
+	<Info datetime="2020-04-29T21:48:47" showfile="lua" />
+	<Preset index="1" SpecialUse="Normal">
+		<Values>
+			<Channels>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="1" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="1" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="1" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="1" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="1" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="1" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="1" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="1" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="1" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="1" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="1" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="2" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="2" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="2" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="2" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="2" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="2" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="2" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="3" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="3" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="3" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="3" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="3" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="3" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="3" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="3" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="4" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="4" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="4" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="4" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="4" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="4" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="4" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="4" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="5" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="5" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="5" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="5" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="5" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="5" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="5" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="5" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="6" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="6" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="6" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="6" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="6" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="6" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="6" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="6" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="6" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="6" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="6" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="7" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="7" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="7" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="7" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="7" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="7" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="7" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="7" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="7" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="7" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="7" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="8" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="8" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="8" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="8" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="8" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="8" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="8" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="8" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="8" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="8" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="8" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="9" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="9" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="9" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="9" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="9" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="9" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="9" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="9" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="9" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="9" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="9" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="FOCUSDISTANCE" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="10" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="10" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="10" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="CTO" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="COLOR1" />
+				</PresetValue>
+				<PresetValue Value="41.601875">
+					<Channel fixture_id="10" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="51.365948">
+					<Channel fixture_id="10" attribute_name="IRIS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="ANIMATIONWHEEL" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="10" attribute_name="ANIMATIONINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="GOBO1" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="GOBO1_POS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="EFFECTWHEEL" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="EFFECTINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="FROST" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE1B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE1A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE3B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE3A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE4B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE4A" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE2B" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="BLADE2A" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="10" attribute_name="SHAPER ROT" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="10" attribute_name="FOCUS" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="10" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="10" attribute_name="FOCUSADJUST" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0020447089">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="DIMMERCURVE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="10" attribute_name="EFFECTWHEEL2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="PWMFREQUENCY2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="PWMFREQUENCY" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="COLORMIXMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="ZOOMMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="GOBO1WHEELSELECTMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="101" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="101" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="101" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="101" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="101" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="101" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="101" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="102" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="102" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="102" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="102" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="102" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="102" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="102" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="103" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="103" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="103" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="103" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="103" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="103" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="103" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="104" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="104" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="104" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="104" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="104" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="104" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="104" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="105" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="105" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="105" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="105" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="105" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="105" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="105" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="106" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="106" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="106" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="106" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="106" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="106" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="106" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="107" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="107" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="107" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="107" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="107" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="107" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="107" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="108" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="108" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="108" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="108" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="108" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="108" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="108" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="109" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="109" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="109" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="109" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="109" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="109" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="109" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="DIM2" />
+				</PresetValue>
+				<PresetValue Value="0.0041199359">
+					<Channel fixture_id="110" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017547875">
+					<Channel fixture_id="110" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="POSITIONMSPEED" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="17.688679">
+					<Channel fixture_id="110" attribute_name="MODE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="EFFECTMACROTIME" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="MACROS" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" attribute_name="WHITEMASTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="110" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.999237">
+					<Channel fixture_id="110" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="18.897638">
+					<Channel fixture_id="110" attribute_name="SHUTTER2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="2" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="3" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="110" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" subfixture_id="4" attribute_name="COLORRGB5" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="201" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="201" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="201" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="201" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="201" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="202" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="202" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="202" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="202" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="202" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="203" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="203" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="203" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="203" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="203" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="204" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="204" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="204" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="204" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="204" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="205" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="205" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="205" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="205" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="205" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="206" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="206" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="206" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="206" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="206" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="207" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="207" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="207" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="207" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="207" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="208" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="208" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="208" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="208" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="208" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="209" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="209" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="209" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="209" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="209" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="EFFECTMACROS" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="210" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="49.803921">
+					<Channel fixture_id="210" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="210" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="210" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="EFFECTMACRORATE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="8.7694693">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="210" subfixture_id="2" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="301" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="301" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="301" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="301" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="301" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="301" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="301" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="301" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="302" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="302" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="302" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="302" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="302" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="302" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="302" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="302" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="303" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="303" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="303" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="303" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="303" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="303" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="303" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="303" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="304" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="304" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="304" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="304" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="304" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="304" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="304" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="304" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="305" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="305" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="305" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="305" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="305" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="305" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="305" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="305" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="306" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="306" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="306" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="306" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="306" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="306" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="306" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="306" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="307" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="307" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="307" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="307" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="307" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="307" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="307" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="307" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="308" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="308" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="308" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="308" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="308" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="308" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="308" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="308" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="309" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="309" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="309" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="309" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="309" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="309" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="309" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="309" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="310" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="COLORTEMPERATURE" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="60.784313">
+					<Channel fixture_id="310" attribute_name="ZOOM" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="COMPOUNDLENSINDEXROTATE" />
+				</PresetValue>
+				<PresetValue Value="-0.0041199359">
+					<Channel fixture_id="310" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0.0017700465">
+					<Channel fixture_id="310" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="FIXTUREGLOBALRESET" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="EFFECTMACROS2" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="310" attribute_name="EFFECTMACRORATE2" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="EFFECTMACROS3" />
+				</PresetValue>
+				<PresetValue Value="50.196079">
+					<Channel fixture_id="310" attribute_name="EFFECTMACRORATE3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="EFFECTMACROS4" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" subfixture_id="2" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="13.415233">
+					<Channel fixture_id="310" subfixture_id="2" attribute_name="SHUTTER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" subfixture_id="2" attribute_name="COLORMIXER" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" subfixture_id="3" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="3" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="3" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="3" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" subfixture_id="4" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="4" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="4" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="4" attribute_name="COLORRGB3" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" subfixture_id="5" attribute_name="DIM" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="5" attribute_name="COLORRGB1" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="5" attribute_name="COLORRGB2" />
+				</PresetValue>
+				<PresetValue Value="100">
+					<Channel fixture_id="310" subfixture_id="5" attribute_name="COLORRGB3" />
+				</PresetValue>
+			</Channels>
+		</Values>
+		<Fades>
+			<Channels>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</Fades>
+		<Delays>
+			<Channels>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="101" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="102" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="103" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="104" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="105" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="106" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="107" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="108" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="109" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="110" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="201" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="202" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="203" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="204" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="205" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="206" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="207" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="208" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="209" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="210" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="301" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="302" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="303" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="304" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="305" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="306" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="307" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="308" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="309" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="0">
+					<Channel fixture_id="310" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</Delays>
+		<EffectFlags>
+			<Channels>
+				<PresetValue Value="1.2611686e-44">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.2611686e-44">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285588e-38">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285588e-38">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.2611686e-44">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.2611686e-44">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.1754956e-38">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.1754956e-38">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693806e-39">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693806e-39">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.3224324e-38">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.3224324e-38">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693806e-39">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693806e-39">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693692e-38">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693692e-38">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="2.9387485e-39">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="2.9387485e-39">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.616306e-38">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.616306e-38">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="4.4081164e-39">
+					<Channel fixture_id="101" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="4.4081164e-39">
+					<Channel fixture_id="101" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.469382e-39">
+					<Channel fixture_id="102" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.469382e-39">
+					<Channel fixture_id="102" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="2.9387499e-39">
+					<Channel fixture_id="103" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="2.9387499e-39">
+					<Channel fixture_id="103" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="5.8774858e-39">
+					<Channel fixture_id="104" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="5.8774858e-39">
+					<Channel fixture_id="104" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693834e-39">
+					<Channel fixture_id="105" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693834e-39">
+					<Channel fixture_id="105" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="4.4081192e-39">
+					<Channel fixture_id="106" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="4.4081192e-39">
+					<Channel fixture_id="106" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="7.3468551e-39">
+					<Channel fixture_id="107" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="7.3468551e-39">
+					<Channel fixture_id="107" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="2.9387527e-39">
+					<Channel fixture_id="108" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="2.9387527e-39">
+					<Channel fixture_id="108" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="5.8774886e-39">
+					<Channel fixture_id="109" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="5.8774886e-39">
+					<Channel fixture_id="109" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="8.8162244e-39">
+					<Channel fixture_id="110" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="8.8162244e-39">
+					<Channel fixture_id="110" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="4.408122e-39">
+					<Channel fixture_id="201" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="4.408122e-39">
+					<Channel fixture_id="201" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="5.87749e-39">
+					<Channel fixture_id="202" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="5.87749e-39">
+					<Channel fixture_id="202" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="7.3468579e-39">
+					<Channel fixture_id="203" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="7.3468579e-39">
+					<Channel fixture_id="203" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="8.8162258e-39">
+					<Channel fixture_id="204" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="8.8162258e-39">
+					<Channel fixture_id="204" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="8.8162258e-39">
+					<Channel fixture_id="205" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="8.8162258e-39">
+					<Channel fixture_id="205" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="4.4081234e-39">
+					<Channel fixture_id="206" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="4.4081234e-39">
+					<Channel fixture_id="206" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="5.8774914e-39">
+					<Channel fixture_id="207" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="5.8774914e-39">
+					<Channel fixture_id="207" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="7.3468593e-39">
+					<Channel fixture_id="208" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="7.3468593e-39">
+					<Channel fixture_id="208" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="8.8162272e-39">
+					<Channel fixture_id="209" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="8.8162272e-39">
+					<Channel fixture_id="209" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="8.8162272e-39">
+					<Channel fixture_id="210" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="8.8162272e-39">
+					<Channel fixture_id="210" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285595e-38">
+					<Channel fixture_id="301" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285595e-38">
+					<Channel fixture_id="301" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.9101804e-38">
+					<Channel fixture_id="302" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.9101804e-38">
+					<Channel fixture_id="302" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285597e-38">
+					<Channel fixture_id="303" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285597e-38">
+					<Channel fixture_id="303" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.9101806e-38">
+					<Channel fixture_id="304" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.9101806e-38">
+					<Channel fixture_id="304" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285598e-38">
+					<Channel fixture_id="305" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285598e-38">
+					<Channel fixture_id="305" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693904e-39">
+					<Channel fixture_id="306" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693904e-39">
+					<Channel fixture_id="306" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285599e-38">
+					<Channel fixture_id="307" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285599e-38">
+					<Channel fixture_id="307" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693918e-39">
+					<Channel fixture_id="308" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693918e-39">
+					<Channel fixture_id="308" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.0285601e-38">
+					<Channel fixture_id="309" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.0285601e-38">
+					<Channel fixture_id="309" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="1.4693932e-39">
+					<Channel fixture_id="310" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="1.4693932e-39">
+					<Channel fixture_id="310" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</EffectFlags>
+		<EffectRate>
+			<Channels>
+				<PresetValue Value="11.1">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.1">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.146639">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.146639">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.193277">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.193277">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.239916">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.239916">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.286554">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.286554">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.333193">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.333193">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.379832">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.379832">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.426471">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.426471">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.473109">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.473109">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.519748">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.519748">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.566386">
+					<Channel fixture_id="101" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.566386">
+					<Channel fixture_id="101" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.752941">
+					<Channel fixture_id="102" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.752941">
+					<Channel fixture_id="102" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="11.939496">
+					<Channel fixture_id="103" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.939496">
+					<Channel fixture_id="103" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="12.12605">
+					<Channel fixture_id="104" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="12.12605">
+					<Channel fixture_id="104" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="12.312605">
+					<Channel fixture_id="105" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="12.312605">
+					<Channel fixture_id="105" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="12.49916">
+					<Channel fixture_id="106" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="12.49916">
+					<Channel fixture_id="106" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="12.685715">
+					<Channel fixture_id="107" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="12.685715">
+					<Channel fixture_id="107" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="12.872269">
+					<Channel fixture_id="108" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="12.872269">
+					<Channel fixture_id="108" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.058824">
+					<Channel fixture_id="109" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.058824">
+					<Channel fixture_id="109" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.245378">
+					<Channel fixture_id="110" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.245378">
+					<Channel fixture_id="110" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.431932">
+					<Channel fixture_id="201" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.431932">
+					<Channel fixture_id="201" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.52521">
+					<Channel fixture_id="202" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.52521">
+					<Channel fixture_id="202" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.618487">
+					<Channel fixture_id="203" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.618487">
+					<Channel fixture_id="203" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.711764">
+					<Channel fixture_id="204" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.711764">
+					<Channel fixture_id="204" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.805042">
+					<Channel fixture_id="205" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.805042">
+					<Channel fixture_id="205" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.898319">
+					<Channel fixture_id="206" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.898319">
+					<Channel fixture_id="206" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="13.991596">
+					<Channel fixture_id="207" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="13.991596">
+					<Channel fixture_id="207" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.084874">
+					<Channel fixture_id="208" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.084874">
+					<Channel fixture_id="208" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.178151">
+					<Channel fixture_id="209" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.178151">
+					<Channel fixture_id="209" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.271428">
+					<Channel fixture_id="210" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.271428">
+					<Channel fixture_id="210" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.364706">
+					<Channel fixture_id="301" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.364706">
+					<Channel fixture_id="301" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.597899">
+					<Channel fixture_id="302" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.597899">
+					<Channel fixture_id="302" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="14.831093">
+					<Channel fixture_id="303" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="14.831093">
+					<Channel fixture_id="303" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="15.064285">
+					<Channel fixture_id="304" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="15.064285">
+					<Channel fixture_id="304" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="15.297479">
+					<Channel fixture_id="305" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="15.297479">
+					<Channel fixture_id="305" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="15.530672">
+					<Channel fixture_id="306" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="15.530672">
+					<Channel fixture_id="306" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="15.763865">
+					<Channel fixture_id="307" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="15.763865">
+					<Channel fixture_id="307" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="15.997059">
+					<Channel fixture_id="308" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="15.997059">
+					<Channel fixture_id="308" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="16.230251">
+					<Channel fixture_id="309" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="16.230251">
+					<Channel fixture_id="309" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="16.463446">
+					<Channel fixture_id="310" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="16.463446">
+					<Channel fixture_id="310" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</EffectRate>
+	</Preset>
+</MA>

@@ -1,0 +1,41 @@
+{
+    "$schema": "https://raw.githubusercontent.com/TypeScriptToLua/vscode-typescript-to-lua/master/tsconfig-schema.json",
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "esnext",
+        "lib": [
+            "esnext"
+        ],
+        "types": [
+            "lua-types/5.3",
+            "typescript-to-lua/language-extensions"
+        ],
+        "strict": true,
+        "importsNotUsedAsValues": "error",
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        // "isolatedModules": true,
+        // "esModuleInterop": true,
+        // "skipLibCheck": true,
+        "allowJs": true,
+        "checkJs": false,
+        "rootDir": "src",
+        "outDir": "build",
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "src/*",
+                "lib/*"
+            ]
+        }
+    },
+    "tstl": {
+        "luaTarget": "5.3",
+        "luaLibImport": "inline",
+        "noResolvePaths": [],
+        "noImplicitSelf": true,
+        "luaBundle": "app.lua",
+        "luaBundleEntry": "app.ts",
+        "noHeader": true
+    }
+}

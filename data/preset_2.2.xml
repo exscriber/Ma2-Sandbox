@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.8.0/MA.xsd" major_vers="3" minor_vers="8" stream_vers="0">
+	<Info datetime="2020-04-29T18:06:31" showfile="lua" />
+	<Preset index="1" SpecialUse="Normal">
+		<Values>
+			<Channels>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="39.533337">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="59.188889">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="20.466663">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-30.915556">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue>
+					<Handle name="Position 2.1">
+						<No>1</No>
+						<No>2</No>
+						<No>1</No>
+					</Handle>
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</Values>
+	</Preset>
+</MA>

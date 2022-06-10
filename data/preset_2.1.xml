@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.8.0/MA.xsd" major_vers="3" minor_vers="8" stream_vers="0">
+	<Info datetime="2020-04-29T18:06:31" showfile="lua" />
+	<Preset index="0" SpecialUse="Normal">
+		<Values>
+			<Channels>
+				<PresetValue Value="-10">
+					<Channel fixture_id="1" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="60">
+					<Channel fixture_id="1" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="-3.3333333">
+					<Channel fixture_id="2" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="47.777779">
+					<Channel fixture_id="2" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="3.3333333">
+					<Channel fixture_id="3" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="35.555557">
+					<Channel fixture_id="3" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="10">
+					<Channel fixture_id="4" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="23.333334">
+					<Channel fixture_id="4" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="16.666666">
+					<Channel fixture_id="5" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="11.111111">
+					<Channel fixture_id="5" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="23.333334">
+					<Channel fixture_id="6" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-1.1111112">
+					<Channel fixture_id="6" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="30">
+					<Channel fixture_id="7" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-13.333333">
+					<Channel fixture_id="7" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="36.666668">
+					<Channel fixture_id="8" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-25.555555">
+					<Channel fixture_id="8" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="43.333332">
+					<Channel fixture_id="9" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-37.777779">
+					<Channel fixture_id="9" attribute_name="TILT" />
+				</PresetValue>
+				<PresetValue Value="50">
+					<Channel fixture_id="10" attribute_name="PAN" />
+				</PresetValue>
+				<PresetValue Value="-50">
+					<Channel fixture_id="10" attribute_name="TILT" />
+				</PresetValue>
+			</Channels>
+		</Values>
+	</Preset>
+</MA>
