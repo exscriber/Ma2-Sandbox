@@ -1,15 +1,15 @@
 /** Convert number to Base26 string
- * @param {number} num
- * @param {number} offset A=1 by default, but can be A=0
+ * @param {number} num one based number
  */
-export function toBase26(num: number, offset: number = 1): string {
-    const keys = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-    const radix = keys.length
-    let result = [];
-    do {
-        let rem = (num - offset) % radix;
-        result.unshift(keys[rem]);
-        num = Math.floor((num - offset) / radix);
-    } while (num)
-    return result.join('');
+export function toBase26(num: number): string {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    const radix = chars.length
+
+    let result = ''
+    while (num > 0) {
+        let index = (num - 1) % radix
+        result = chars[index] + result
+        num = Math.floor((num - 1) / radix)
+    }
+    return result
 }
