@@ -3,14 +3,17 @@
   "description": "GrandMA2 Lua sandbox",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "author": "Nick N. Zinovenko",
   "scripts": {
-    "build": "tstl",
-    "dev": "tstl --watch"
+    "build TS2Lua": "tstl",
+    "build EsBuild": "esbuild --bundle app2.ts --outdir=build --format=esm --platform=node --analyze"
   },
   "devDependencies": {
+    "esbuild": "^0.14.47",
+    "@types/node": "^18.0.0",
     "lua-types": "^2.11.0",
-    "typescript": "^4.7.3",
-    "typescript-to-lua": "^1.6.0"
+    "typescript": "^4.7.4",
+    "typescript-to-lua": "^1.6.1"
   }
 }
