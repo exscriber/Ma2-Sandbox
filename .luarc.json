@@ -1,17 +1,22 @@
 {
     "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
-    "Lua.diagnostics.disable": [
+    "diagnostics.disable": [
         "undefined-field",
         "need-check-nil",
-        "different-requires"
+        "different-requires",
+        "redundant-parameter",
+        "param-type-mismatch"
     ],
-    "Lua.diagnostics.globals": [
+    "diagnostics.globals": [
         "gma"
     ],
-    "Lua.runtime.version": "Lua 5.3",
-    "Lua.workspace.checkThirdParty": false,
-    "Lua.workspace.ignoreSubmodules": false,
-    "Lua.workspace.library": [
+    "runtime.version": "Lua 5.3",
+    "workspace.checkThirdParty": false,
+    "workspace.ignoreDir": [
+        "lib"
+    ],
+    "workspace.ignoreSubmodules": false,
+    "workspace.library": [
         "lib"
     ]
 }

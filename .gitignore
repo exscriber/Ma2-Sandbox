@@ -5,4 +5,5 @@ package-lock.json
 node_modules
 dist
 build
+__pycache__
 *.log
