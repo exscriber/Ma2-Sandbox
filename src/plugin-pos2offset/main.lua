@@ -13,11 +13,11 @@ local cfg = {
 
 --[[Bundle]]
 
--- Bootstrap
-package.path = package.path .. ';C:/Users/Nikolay/Code/Ma2-Sandbox/src/?.lua'
+-- Dev Environment
+package.path = package.path .. ';C:/Users/Nikolay/Code/Ma2-Sandbox/src/?.lua;C:/Users/Nikolay/Code/Ma2-Sandbox/lib/?.lua'
 
 if gma then
-    local print = gma.echo or print
+    local print = gma.echo
 
     local internal_name = select(1, ...)
     local visible_name  = select(2, ...)

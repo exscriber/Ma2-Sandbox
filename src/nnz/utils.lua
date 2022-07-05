@@ -4,6 +4,8 @@
 -- Copyright (c) 2022 Nick N. Zinovenko
 
 
+if not gma then error('Suppose to run only as GrandMa plugin') end
+
 local _M = { _VERSION = '1.0' }
 
 local print = gma.echo or print
@@ -33,9 +35,6 @@ _M.attrFilter = {
     Col = { 'COLORRGB1', 'COLORRGB2', 'COLORRGB3', 'COLORRGB4', 'COLORRGB5' },
 }
 
---- Utility: read file content into string
----@param filename string
----@return string
 function _M.readfile(filename)
     local file, err = io.open(filename, 'r')
     if file then
@@ -47,9 +46,42 @@ function _M.readfile(filename)
     end
 end
 
+local function tableContains(table, item)
+    for _, v in pairs(table) do
+        if v == item then
+            return true
+        end
+    end
+    return false
+end
+
+local function getTableKeys(table)
+    local result = {}
+    for k, _ in pairs(table) do
+        result[#result + 1] = k
+    end
+    return result
+end
+
+local function computePresetDelta(first, second)
+    local result = {}
+    for id, data1 in pairs(first) do
+        for attr, value1 in pairs(data1) do
+            local value2 = second[id][attr]
+            if value2 then -- ensure preset2 have value to compare with
+                if not result[id] then
+                    result[id] = {}
+                end
+                result[id][attr] = value2 - value1
+            end
+        end
+    end
+    return result
+end
+
 --- Utility: print GrandMa2 property
----@param handle number
----@param indent? number
+---@param handle integer
+---@param indent? integer
 function _M.printProperty(handle, indent)
     indent = indent or 0
     local pad = string.rep('  ', indent)
@@ -64,8 +96,8 @@ function _M.printProperty(handle, indent)
 end
 
 --- Utility: print GrandMa2 object
----@param handle number | string
----@param indent? number
+---@param handle integer | string
+---@param indent? integer
 ---@param with_props? boolean
 ---@param recursive? boolean
 ---@param filter? string[]
@@ -100,7 +132,7 @@ end
 --- Utility: print table contents
 -- TODO: implement __tostring()
 ---@param table table
----@param indent? number
+---@param indent? integer
 ---@param recursive? boolean
 function _M.printTable(table, indent, recursive)
     indent = indent or 0
@@ -125,28 +157,8 @@ function _M.printTable(table, indent, recursive)
     end
 end
 
----@param table string[]
----@param element string
----@return boolean
-local function tableContains(table, element)
-    for _, v in pairs(table) do
-        if v == element then
-            return true
-        end
-    end
-    return false
-end
-
-local function getTableKeys(table)
-    local result = {}
-    for k, _ in pairs(table) do
-        result[#result + 1] = k
-    end
-    return result
-end
-
 --- Get Fixture data from Ma2 into Lua table
----@param id string | number
+---@param id string | integer
 ---@return table | nil
 function _M.getFixtureData(id)
     local fix_handle = obj.handle(id)
@@ -184,77 +196,6 @@ function _M.getFixtureData(id)
     return result
 end
 
---- Parse GrandMa2 Preset XML File to LUA table: {id={attribune=value}}
----@param xml string
----@param filter? string[]
----@return table
-local function parsePresetXML(xml, filter)
-    -- narrow XML to Values block, ignoring Fade/Delay/etc... stuff
-    -- And limit selection to first XML preset
-    xml = xml:match('<Values>(.-)</Values>')
-
-    local result = {}
-    for data, channel in xml:gmatch('<PresetValue (.-)>%s*<Channel(.-)/>%s*</PresetValue>') do
-        local value  = tonumber(data:match('Value="(.-)"'))
-        local fix_id = channel:match(' fixture_id="(%d+)"') or "ERR"
-        local sub_id = channel:match(' subfixture_id="(%d+)"') or "1"
-
-        -- TODO: channel_ids not implemented yet. Yea, i know....
-        local id = fix_id .. '.' .. sub_id
-
-        local attribute = channel:match('attribute_name="(.-)"')
-        if not filter or tableContains(filter, attribute) then
-            if not result[id] then
-                result[id] = {}
-            end
-            result[id][attribute] = value
-        end
-    end
-    return result
-end
-
---- Parse GrandMa2 Groups XML File to LUA table {##=id} maintaining selection order
----@param xml string
----@param filter? string[]
----@return table
-local function parseGroupXML(xml, filter)
-    local result = {}
-    for data in xml:gmatch('<Subfixture (.-)/>') do
-        -- TODO: channel_ids not implemented yet
-        local cha_id = data:match('cha_id="(%d+)"') or "ERR"
-        local fix_id = data:match('fix_id="(%d+)"') or "ERR"
-        local sub_id = data:match('sub_index="(%d+)"') or "1"
-
-        local id = fix_id .. '.' .. sub_id
-        table.insert(result, id)
-    end
-    return result
-end
-
---- Compute delta between two preset tables
-local function computePresetDelta(first, second)
-    local result = {}
-    for id, data1 in pairs(first) do
-        for attr, value1 in pairs(data1) do
-            local value2 = second[id][attr]
-            if value2 then -- ensure preset2 have value to compare with
-                if not result[id] then
-                    result[id] = {}
-                end
-                result[id][attr] = value2 - value1
-            end
-        end
-    end
-    return result
-end
-
----@type table <string, fun(xml: string, filter: string[])>
-local Parsers = {
-    ['group']   = parseGroupXML,
-    ['preset']  = parsePresetXML,
-    ['default'] = function() end,
-}
-
 --- Get Ma2 Pool Item into Lua table
 --- via tempory Xml file because Ma2 API sucks
 ---@param type string      -- eg 'Group', 'Preset', 'Macro', etc..
@@ -262,14 +203,14 @@ local Parsers = {
 ---@param filter? string[] -- eg {'PAN', 'TILT'} - for Position values only
 ---@return table
 function _M.getPoolItem(type, id, filter)
-    local result = {}
-
+    local XmlParsers = require 'nnz.parser'.XmlParsers
     type = type:lower() -- convert to lowercase for compare
-    if Parsers[type] then
 
+    local result = {}
+    if XmlParsers[type] then
         local itemname = type .. ' ' .. id
         local filename = 'tmp-' .. type .. '-' .. counter()
-        local fullname = gma_path.importexport .. '/' .. filename .. '.xml'
+        local fullname = gma_path.base .. '/importexport/' .. filename .. '.xml'
 
         gma.cmd('SelectDrive 1') -- change to internal disk, otherway we can`t load xml from lua side
         gma.cmd('Export /o /nc ' .. itemname .. ' "' .. filename .. '"')
@@ -277,7 +218,7 @@ function _M.getPoolItem(type, id, filter)
         local xml = _M.readfile(fullname)
         -- os.remove(fullname) -- FIXME: remove temp file after use (uncomment after debug)
 
-        result = Parsers[type](xml, filter)
+        result = XmlParsers[type](xml, filter)
     end
 
     return result

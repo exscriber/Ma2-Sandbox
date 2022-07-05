@@ -2,4 +2,4 @@
 align_call_args = true
 label_no_indent = true
 if_condition_no_continuation_indent = true
-if_condition_align_with_each_other  = false
+if_condition_align_with_each_other  = true

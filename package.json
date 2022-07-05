@@ -10,8 +10,8 @@
     "Transpile watch": "tstl --watch",
     "Test run": "esbuild --bundle test.ts | node",
     "Test bundle": "esbuild --bundle test.ts --outdir=build --format=esm --platform=node --analyze",
-    "Bundle pos2offset": "lua53 tools/luacc.lua -p [[Bundle]] -o build/pos2offset.lua -i src -i lib plugin-pos2offset.main plugin-pos2offset.impl nnz.parser nnz.utils",
-    "Bundle layout2csv": "lua53 tools/luacc.lua -p [[Bundle]] -o build/layout2csv.lua -i src -i lib cmd.layout2csv argparse pl.compat pl.template nnz.parser"
+    "Bundle pos2offset": "lua tools/luacc.lua -p [[Bundle]] -o build/pos2offset.lua -i src -i lib plugin-pos2offset.main plugin-pos2offset.impl nnz.parser nnz.utils",
+    "Bundle layout2csv": "lua tools/luacc.lua -p [[Bundle]] -o build/layout2csv.lua -i src -i lib cmd.layout2csv argparse pl.compat pl.template nnz.parser"
   },
   "devDependencies": {
     "esbuild": "^0.14.47",

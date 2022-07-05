@@ -4,8 +4,8 @@
 -- Copyright (c) 2022 Nick N. Zinovenko
 
 
-local pprint = require 'pl.pretty'.debug
-local utils = require 'utils.nnz'
+local utils = require 'nnz.utils'
+local pprint = require 'pl.pretty'.dump
 local print = gma.echo
 
 local obj = gma.show.getobj
@@ -15,7 +15,7 @@ local function impl(cfg, cmd)
     print('cmd: ' .. tostring(cmd))
 
     local data = utils.getFixtureData('Fixture 101')
-    utils.printTable(data, 0, true)
+    pprint(data)
 
 
     -- local handle = obj.handle('Group 1')
