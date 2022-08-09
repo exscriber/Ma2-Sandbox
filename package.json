@@ -14,8 +14,8 @@
     "Bundle layout2csv": "lua tools/luacc.lua -p [[Bundle]] -o build/layout2csv.lua -i src -i lib cmd.layout2csv argparse pl.compat pl.template nnz.parser"
   },
   "devDependencies": {
-    "esbuild": "^0.14.47",
     "@types/node": "^18.0.0",
+    "esbuild": "^0.14.47",
     "lua-types": "^2.11.0",
     "typescript": "^4.7.4",
     "typescript-to-lua": "^1.6.1"
