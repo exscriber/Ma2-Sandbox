@@ -1,0 +1,128 @@
+
+
+Сталкер - Вьюга
+14:00:00
+0:00 - intro
+0:03 - kuplet
+0:31 - low pripev
+0:56 - proigrish
+1:08 - kuplet
+1:33 - pripev
+1:58 - proigrish
+2:23 - low kuplet
+2:48 - zapev
+3:13 - pripev
+3:38 - outro
+3:50 - end
+
+
+Фантом - Только
+14:10:00
+0:00 - intro
+0:15 - za kuplet
+0:46 - pripev
+1:00 - proigrish
+1:15 - za kuplet
+1:44 - pripev
+2:15 - drop low
+2:31 - zapev
+2:45 - bridge
+2:48 - pripev
+3:16 - outro
+3:30 - end
+
+
+Кот - Беспризорник
+14:40:00
+0:00 - intro
+0:08 - drop
+0:10 - za kuplet
+0:29 - low pre
+0:38 - pre
+0:45 - drop
+0:47 - pripev
+1:24 - kuplet
+1:43 - low pre
+1:52 - pre
+2:01 - pripev
+2:38 - drop low
+2:48 - pripev
+2:55 - drop
+2:57 - proigrish
+3:15 - end
+
+
+Бутон - Голая
+14:50:00
+0:00 - intro
+0:08 - kuplet
+0:33 - pripev
+0:59 - hit
+1:02 - kuplet
+1:28 - low pripev
+1:40 - pripev
+1:53 - low
+2:19 - pripev
+2:40 - hit
+2:45 - outro
+2:52 - last hit
+
+
+Кляк - Vogue
+13:50:00
+0:00 - intro
+0:18 - rythm
+0:35 - bass
+0:52 - kuplet
+1:08 - pre
+1:25 - pripev
+1:41 - kuplet
+2:14 - pripev
+2:30 - rap
+2:47 - pripev
+3:04 - end
+
+
+Сирена - Дыши со мной
+14:30:00
+0:00 - intro
+0:11 - kuplet
+1:07 - pripev
+1:53 - kuplet
+2:49 - low 8 
+3:12 - rise
+3:34 - end
+
+
+Миранда - На сиреневой луне
+14:20:00
+0:00 - intro
+0:11 - kuplet
+0:31 - pre
+0:51 - pripev
+1:11 - kuplet
+1:31 - pre
+1:52 - pripev
+2:12 - proigrish
+2:32 - pre
+2:52 - pripev
+3:12 - outro
+3:21 - end
+
+
+Катюша - Белая ночь
+13:40:00
+0:00 - intro
+0:18 - bridge
+0:20 - kuplet
+0:36 - rythm
+0:52 - proigrish
+1:00 - pripev
+1:32 - drop
+1:34 - kuplet
+2:06 - drop
+2:08 - low pripev
+2:24 - pripev
+2:40 - proigrish
+2:55 - end
+

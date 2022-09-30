@@ -8,7 +8,7 @@
             "esnext"
         ],
         "types": [
-            "typescript-to-lua/language-extensions",
+            "@typescript-to-lua/language-extensions",
             "lua-types/5.3",
             "node"
         ],
